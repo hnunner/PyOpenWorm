@@ -38,3 +38,5 @@ OpenWormData/WormData.n3
 *.nb
 *.orig
 snakefood
+.project
+.pydevproject
